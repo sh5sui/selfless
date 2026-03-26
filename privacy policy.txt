@@ -1,0 +1,41 @@
+Privacy Policy
+Last updated: March 25, 2026
+
+This Privacy Policy describes how our Discord bot/application ("the Bot", "we", "us") collects, uses, and handles your information when you use our services.
+
+1. Information We Collect
+When you interact with the Bot, we may collect the following information:
+
+Discord User IDs — to identify users and process commands.
+Server (Guild) IDs — to identify the server the Bot is operating in.
+Channel IDs — to respond in the correct channels.
+Message content — only to the extent necessary to process commands you send to the Bot.
+We do not collect or store message content beyond what is required to fulfil a specific command or feature.
+
+2. How We Use Your Information
+Information collected is used solely for:
+
+Providing and improving the Bot's features and functionality.
+Storing user preferences or settings you configure through the Bot.
+Debugging and resolving errors or issues.
+We do not sell, rent, or share your data with third parties for marketing or advertising purposes.
+
+3. Data Storage and Retention
+Any data stored by the Bot is kept only for as long as necessary to provide the service. Data associated with a user or server may be deleted upon request or when the Bot is removed from a server.
+
+4. Third-Party Services
+The Bot operates on Discord's platform and is subject to Discord's Privacy Policy. We may also use third-party hosting or database providers, which have their own privacy practices.
+
+5. Children's Privacy
+Our Bot is not directed at children under the age of 13. We do not knowingly collect personal data from children. If you believe a child has provided us with personal data, please contact us so we can remove it.
+
+6. Your Rights
+You may request deletion of any data we hold associated with your Discord User ID at any time by contacting us. We will respond to such requests within a reasonable timeframe.
+
+7. Changes to This Policy
+We may update this Privacy Policy from time to time. Changes will be reflected by updating the "Last updated" date above. Continued use of the Bot after changes constitutes acceptance of the updated policy.
+
+8. Contact
+If you have any questions or concerns about this Privacy Policy, please open an issue in our GitHub repository or contact us through Discord.
+
+This policy applies to the Discord Bot and its associated services.
