@@ -1,7 +1,7 @@
 Privacy Policy
 Last updated: March 25, 2026
 
-This Privacy Policy describes how our Discord bot/application ("the Bot", "we", "us") collects, uses, and handles your information when you use our services.
+This Privacy Policy describes how our Discord bot/application ("selfless", "we", "us") collects, uses, and handles your information when you use our services.
 
 1. Information We Collect
 When you interact with the Bot, we may collect the following information:
