@@ -1,0 +1,41 @@
+Terms of Service
+Last updated: March 25, 2026
+
+By using our Discord bot/application ("selfless"), you agree to these Terms of Service. Please read them carefully. If you do not agree, do not use the Bot.
+
+1. Acceptance of Terms
+These Terms of Service ("Terms") govern your access to and use of the Bot. By adding the Bot to a server or interacting with it, you agree to be bound by these Terms and by Discord's own Terms of Service.
+
+2. Eligibility
+You must be at least 13 years old (or the minimum age required in your country) to use the Bot. By using the Bot, you represent that you meet this requirement.
+
+3. Permitted Use
+You agree to use the Bot only for lawful purposes and in accordance with these Terms. You agree not to:
+
+Use the Bot to violate any applicable laws or regulations.
+Use the Bot to harass, abuse, or harm other users.
+Attempt to exploit, reverse-engineer, or disrupt the Bot or its underlying systems.
+Use the Bot in a way that violates Discord's Community Guidelines.
+Use the Bot for spamming, phishing, or any other malicious activity.
+4. Service Availability
+The Bot is provided on an "as is" and "as available" basis. We do not guarantee uninterrupted, error-free operation. We reserve the right to modify, suspend, or discontinue the Bot at any time without notice.
+
+5. Disclaimer of Warranties
+To the fullest extent permitted by law, the Bot is provided without warranties of any kind, either express or implied. We do not warrant that the Bot will meet your requirements or that it will be accurate, reliable, or free of errors.
+
+6. Limitation of Liability
+To the maximum extent permitted by law, we shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of — or inability to use — the Bot.
+
+7. Termination
+We reserve the right to restrict or terminate your access to the Bot at any time, for any reason, including but not limited to a violation of these Terms.
+
+8. Changes to These Terms
+We may update these Terms from time to time. Changes will be reflected by updating the "Last updated" date above. Continued use of the Bot after changes constitutes your acceptance of the updated Terms.
+
+9. Governing Law
+These Terms are governed by and construed in accordance with applicable law. Any disputes arising from these Terms or your use of the Bot shall be resolved in accordance with applicable legal procedures.
+
+10. Contact
+If you have any questions about these Terms, please open an issue in our GitHub repository or contact us through Discord.
+
+These terms apply to the Discord Bot and its associated services.
